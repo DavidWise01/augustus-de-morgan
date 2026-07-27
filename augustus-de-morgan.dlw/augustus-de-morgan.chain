@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 994
 slug  : augustus-de-morgan
 seal  : c3ab49742c98cb83b1e42b563cd82b2606e54c7deffc28d0c2cc2bafe794af74
-prev  : 651f3187fe778f6dbd62998b9d6597bb85fa5326a67f7e8d8f060d9082becbbc
-link  : 5e7308f9a3fc3c3a3787b7169141494930f10a46fd6d4b4b789bf688d88f8200
-head  : f7444724835fd968bd2eac85811f9fa823a18d20a57907b4fade8d96b70b5409
+prev  : c01d04ece136c4a4bced2b2757615e36776a085adf7683f60a7af4669d2a7d51
+link  : 06c05e5bef69e6c61bb678a852a03c6b28f483fd8c6a21c690f5008489a161b4
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
